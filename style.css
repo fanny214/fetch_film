@@ -1,0 +1,30 @@
+/* img{
+    width: 300px;
+    height: 300px;
+}
+
+section{
+display: flex;
+flex-wrap: wrap;
+justify-content: space-around;
+}
+article{
+box-shadow: 0px 0px 5px black;
+border-radius: 10px;
+display:flex;
+flex-direction:row-reverse;
+align-items: center;
+margin-top: 5rem;
+
+}
+
+div{
+width: 300px;
+height: 300px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+
+
+} */
